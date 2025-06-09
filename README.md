@@ -1,5 +1,4 @@
-markdown
-🎭 Entertainer Data Analysis Dashboard | Power BI + DAX + Excel + SQL
+Entertainer Data Analysis Dashboard | Power BI + DAX + Excel + SQL
 
 This project is a comprehensive Entertainer Data Analysis Dashboard built using Power BI, powered by DAX, SQL, and Excel. The dashboard gives meaningful insights into the performance of entertainers across various metrics like views, ratings, type of content, and more.
 
